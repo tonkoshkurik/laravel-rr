@@ -39,8 +39,8 @@ Another way is repository cloning, forking or [usage this repository as a templa
 Let's dive deeper and watch how to start application development, based on this template. First, we need to get the sources:
 
 ```shell
-$ git clone https://github.com/tarampampam/laravel-roadrunner-in-docker.git
-$ cd ./laravel-roadrunner-in-docker
+$ git clone git@github.com:tonkoshkurik/laravel-rr.git
+$ cd ./laravel-rr
 ```
 
 After that - build image with our application and install composer dependencies:
